@@ -1,6 +1,5 @@
 import React from 'react'
 import ngm from '../Assets/ngmlogo.jpeg'
-import bharathiyar from '../Assets/bharathiyar.jpg'
 import bharathi from '../Assets/bharathi2.jpeg'
 const Education = () => {
 

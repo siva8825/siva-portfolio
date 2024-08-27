@@ -58,7 +58,7 @@ const Projects = () => {
     <img src={src} alt="" className='rounded-md duration-200 hover:scale-105' />
     <p className='text-2xl text-center py-4'>{title}</p>
     <div className='flex items-center justify-center'> 
-       <a href="" className='w-1/2 px-6 py-3 m-4 duration-200 border-l-4 border-gray-10  hover:scale-105'>Demo</a>
+       <button  className='w-1/2 px-6 py-3 m-4 duration-200 border-l-4 border-gray-10  hover:scale-105'>Demo</button>
         <a href={code} className='w-1/2 px-6 py-3 m-4 duration-200 border-r-4 border-gray-10   hover:scale-105'>Code</a>
     </div>
 </div>
