@@ -9,6 +9,8 @@ import node from '../Assets/node.png'
 import github from '../Assets/github.png'
 import tailwind from '../Assets/tailwind.png'
 import css from '../Assets/css.png'
+import netlify from '../Assets/netlify.png'
+import reactbootstrap from '../Assets/reactbootstrap.jpeg'
 const Skills = () => {
     const techs=[
         {
@@ -70,6 +72,18 @@ const Skills = () => {
     src:github,
     title:'GitHub',
     style:'shadow-gray-400'
+},
+{
+    id:11,
+    src:reactbootstrap,
+    title:'React Bootstap',
+    style:'shadow-sky-200'
+},
+{
+    id:12,
+    src:netlify,
+    title:'Netlify',
+    style:'shadow-green-200'
 },
 ]
   return (
