@@ -1,7 +1,13 @@
 import React from 'react'
 import ngm from '../Assets/ngmlogo.jpeg'
 import bharathi from '../Assets/bharathi2.jpeg'
+import aos from 'aos'
+import 'aos/dist/aos.css'
+import { useEffect } from 'react';
 const Education = () => {
+    useEffect(()=>{
+        aos.init({duration:2000})
+      },[])
 
 const edu=[
     {
@@ -47,7 +53,7 @@ const edu=[
             <p className='pt-6'>My education has been a journey of self-discovery and growth. My educational details are as follows.</p>
         </div>
 
-<div className='flex justify-center'>
+<div className='flex justify-center' data-aos="zoom-in" >
 
 <div  className='p-6 shadow-lg w-5/6 h-full shadow-gray-600 rounded'>
 {edu.map(({id,src,clg,degree,year,grade,about,style})=>(
