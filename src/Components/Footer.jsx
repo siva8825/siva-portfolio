@@ -81,7 +81,7 @@ const foot1=[
                                 <BsFillPersonLinesFill size={20} className='duration-300 scale-105'/>
                                 </>
                             ),
-                            href:'/dev resume.pdf',
+                            href:'/Fullstack Resume.pdf',
                             download:true
                             },
     ]

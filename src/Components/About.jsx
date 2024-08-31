@@ -19,7 +19,7 @@ const About = () => {
 
             <p className='text-gray-500 py-4  '>I am Sivanesh Kumar, a driven and adaptable professional with a strong commitment to continuous learning and excellence. I thrive on challenges and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am poised to make meaningful contributions and achieve significant outcomes.</p>
          <div>
-            <a href="https://drive.google.com/file/d/1fcrRELQzW0hM4JaNjDUdkzhND1agaliM/view?usp=sharing"><button className='w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>Resume</button></a>
+            <a href="https://drive.google.com/file/d/1fcrRELQzW0hM4JaNjDUdkzhND1agaliM/view?usp=drive_link"><button className='w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>Resume</button></a>
          </div>
         </div>
         <div>
