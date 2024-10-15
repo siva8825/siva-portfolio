@@ -26,10 +26,10 @@ const Experience = () => {
     <div>
         <p className='text-2xl font-bold'>Fullstack Development</p>
         <p className='py-6 text-gray-400'>Kitkat Software Technologies</p>
-        <p className='text-gray-400'>Feb 2024 - August 2024</p>
+        <p className='text-gray-400'>October 2023 - Present</p>
     </div>
 </div>
-<p className='text-gray-400 py-4'>I have worked in many live project for my company by using my skills. I was the top performer in every live project.</p>
+<p className='text-gray-400 py-4'>I have 1 year of experience building and maintaining web applications using both front-end and back-end technologies. I worked with ReactJS for user interfaces and Node.js/Express for server-side logic, along with databases like MongoDB. My role involved collaborating with cross-functional teams to design, develop, and deploy scalable and responsive solutions.</p>
 </div>
 </div>
 
